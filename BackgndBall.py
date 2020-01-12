@@ -1,3 +1,5 @@
+# Use blit function to alternate between 2 different background patterns
+
 import pew
 
 # Intialise Device
