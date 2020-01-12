@@ -1,4 +1,4 @@
-# Simple demo usuing blit to copy alternating pattern to screen
+#  Simple demo usuing blit to copy alternating pattern to screen
 import pew
 
 # Intialise Device
