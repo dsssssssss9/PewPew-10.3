@@ -1,4 +1,4 @@
-#Simple moving dot from random start position
+# Simple moving dot from random start position
 import pew
 from random import randint
 
