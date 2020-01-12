@@ -1,4 +1,4 @@
-#Simple moving dot from top left(0,0) to bottom right (7,7)
+#Simple moving dot from top left(0,0) to bottom right (7,7) & back
 import pew
 
 
