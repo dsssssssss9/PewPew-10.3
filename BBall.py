@@ -1,3 +1,4 @@
+# Very simple program to display random pixels with random brightness
 import pew
 import random
 
